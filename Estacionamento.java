@@ -175,6 +175,14 @@ public class Estacionamento {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("\nTrabalho T2 de Estrutura de Dados");
+        System.out.println(" ");
+        System.out.println("Integrantes da tarefa: ");
+        System.out.println(" ");
+        System.out.println("Breno Coutinho 23.01297-8");
+        System.out.println("Yuri Drapack 23.00243-3");
+        System.out.println("João Pedro Galhardo 23.01378-8");
+        System.out.println("Lucca de Souza 23.01053-3");
+        System.out.println(" ");
         
         System.out.println("Selecione o tipo de estacionamento:");
         System.out.println("1. Estacionamento com Entrada Única (Pilha)");
